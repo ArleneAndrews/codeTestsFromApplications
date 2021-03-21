@@ -9,5 +9,7 @@ Third up was a markdown parser - to get the markdown header levels into HTML.
 Fourth, masking strings, such as a credit card or email address
 Fifth, was a fun one - finding triangular numbers
 And last, a Roman numeral conversion.
+Another function - make sure a batch of braces are valid (all sets are closed)
+In progress - a palidrome checker.
 
 All of these need tests added - the system ran tests, so I didn't have access to many of them.
